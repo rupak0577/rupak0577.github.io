@@ -45,6 +45,16 @@ exports[`Post renders correctly 1`] = `
           </strong>
            on Twitter
         </a>
+        <a
+          href="https://github.com/#"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          <strong>
+            John Doe
+          </strong>
+           on Github
+        </a>
       </p>
     </div>
   </div>

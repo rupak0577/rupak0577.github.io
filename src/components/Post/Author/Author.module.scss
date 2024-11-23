@@ -19,6 +19,15 @@
         color: var(--color-typographic-link-s-font);
       }
     }
+    .github {
+      display: block;
+      text-decoration: underline;
+
+      &:hover,
+      &:focus {
+        color: var(--color-typographic-link-s-font);
+      }
+    }
   }
 }
 

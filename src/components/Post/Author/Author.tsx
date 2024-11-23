@@ -20,6 +20,14 @@ const Author = () => {
         >
           <strong>{author.name}</strong> on Twitter
         </a>
+        <a
+          className={styles.github}
+          href={getContactHref("github", author.contacts.github)}
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          <strong>{author.name}</strong> on Github
+        </a>
       </p>
     </div>
   );
