@@ -1,13 +1,20 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "./notebook.jpg"
+socialImage: "./20191122_pale-blue-dot.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+_“It is the mark of an educated mind to be able to entertain a thought without accepting it.” – Aristotle_
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
+Hello! I am ~~the Doctor~~ a mobile dev with an interest in programming, physics (my first love) and anything considered remotely "intellectual/nerdy".
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
+This blog will be on things I find interesting (duh).
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+---
+
+Here is the greatest photo we have ever taken in the history of humanity (courtesy of Carl Sagan). That tiny dot, that's all of us. Makes you wonder what importance the problems of the world hold from this perspective, doesn't it?
+
+![The pale blue dot](/20191122_pale-blue-dot.jpg)
+
+
+_“The only true wisdom is knowing that you know nothing.” – Socrates._

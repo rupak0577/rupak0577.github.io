@@ -1,9 +1,9 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "title": "devLog of Rupak Das",
+  "url": "https://rupak0577.github.io",
+  "subtitle": "dev/null | blog.md",
   "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "UA-73379983-2",
+  "googleAnalyticsId": "#",
   "disqusShortname": "",
   "postsLimit": 4,
   "pathPrefix": "/",
@@ -17,18 +17,18 @@
       "path": "/pages/about"
     },
     {
-      "label": "Contact me",
-      "path": "/pages/contacts"
+      "label": "Reads",
+      "path": "/pages/reads"
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Rupak Das",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "Log.i('bio', 'Mobile developer')",
     "contacts": {
       "rss": "",
       "email": "",
-      "github": "alxshelepenok/gatsby-starter-lumen",
+      "github": "rupak0577",
       "facebook": "#",
       "telegram": "#",
       "twitter": "#",
